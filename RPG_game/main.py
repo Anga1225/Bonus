@@ -19,7 +19,7 @@ egg_inventory = [
 
 # ==== 顯示狀態 ====
 def show_status():
-    print(f"\n Day {day} - 校納界公會紀錄")
+    print(f"\n Day {day} - programming 公會紀錄")
     print(f"金幣：{gold} G ｜ GPT 點數：{GPT_points}")
     print("組員狀態：")
     for adv in adventurers:
@@ -93,7 +93,6 @@ def assign_quest(quests):
             adv.fatigue += quest.fatigue_cost
         return 0
 
-# ==== 主遊戲迴圈 ====
 def main():
     global day, gold
     print("="*40)
