@@ -2,10 +2,10 @@
 
 本專案包含兩個完全獨立的 Python 小遊戲：
 
-| Game | Path | Brief Intro                               |
-|------|------|-------------------------------------------|
+| Game | Path | Brief Intro                             |
+|------|------|-----------------------------------------|
 | **ShowHand – Texas Hold'em Poker** | `Bonus/ShowHand.py` | 德州撲克模擬器，支援多玩家、完整下注流程     |
-| **College Life RPG** | `Bonus/RPG_game/` | 以真實大學生生活為靈感的文字 RPG；管理時間、體力與課業，努力撐過 15 天的期末修羅場 |
+| **College Life RPG** | `Bonus/RPG_game/` | 以真實大學生生活為靈感的文字 RPG；管理時間、體力與課業，努力撐過期末修羅場 |
 
 ---
 
